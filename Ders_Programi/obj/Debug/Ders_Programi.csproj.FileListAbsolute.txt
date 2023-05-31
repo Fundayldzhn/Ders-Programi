@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\bin\Debug\Ders_Programi.exe.config
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\bin\Debug\Ders_Programi.exe
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\bin\Debug\Ders_Programi.pdb
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.Form1.resources
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.Properties.Resources.resources
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.exe
+C:\Users\Acer\source\repos\Ders_Programi\Ders_Programi\obj\Debug\Ders_Programi.pdb
